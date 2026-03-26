@@ -1,0 +1,45 @@
+Expressao 1:
+  LPAREN: (
+  NUMBER: 3.5
+  NUMBER: 2.0
+  OPERATOR: +
+  RPAREN: )
+
+Expressao 2:
+  LPAREN: (
+  NUMBER: 10.0
+  NUMBER: 4.0
+  OPERATOR: -
+  RPAREN: )
+
+Expressao 3:
+  LPAREN: (
+  NUMBER: 6.0
+  NUMBER: 7.0
+  OPERATOR: *
+  RPAREN: )
+
+Expressao 4:
+  LPAREN: (
+  NUMBER: 8.0
+  NUMBER: 2.0
+  OPERATOR: /
+  RPAREN: )
+
+Expressao 5:
+  LPAREN: (
+  NUMBER: 2
+  KEYWORD: MEM
+  RPAREN: )
+
+Expressao 6:
+  LPAREN: (
+  KEYWORD: MEM
+  RPAREN: )
+
+Expressao 7:
+  LPAREN: (
+  NUMBER: 1
+  KEYWORD: RES
+  RPAREN: )
+
